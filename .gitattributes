@@ -1,0 +1,2 @@
+# index.flan — двоичный формат: git не должен трогать в нём ни байта (core.autocrlf и т.п.).
+*.flan binary
