@@ -1,2 +1,5 @@
 # index.flan — двоичный формат: git не должен трогать в нём ни байта (core.autocrlf и т.п.).
 *.flan binary
+
+# Манифесты — JSON: пусть GitHub считает их в статистике языков.
+*.json linguist-detectable
