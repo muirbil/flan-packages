@@ -1,6 +1,6 @@
 {
   "name": "flan",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Lightweight package manager for Windows",
   "homepage": "https://github.com/muirbil/flan",
   "license": "MIT",
@@ -11,12 +11,12 @@
     "x64": {
       "url": "https://github.com/muirbil/flan/releases/download/v{version}/flan-x64.exe",
       "kind": "exe",
-      "sha256": "b9cf6de47c08b67b1fe7e19f7ddcd0d50c7ef0de1570e13d2db4334883774b84"
+      "sha256": "1988d3e97731259e2d4e4bbe1c654178690933b8191d2ca85950a901e1fa54c1"
     },
     "x86": {
       "url": "https://github.com/muirbil/flan/releases/download/v{version}/flan-x86.exe",
       "kind": "exe",
-      "sha256": "279a72cbf690cb90de319f49a3a123afc94daf321f45d94e8229c379189fb44b"
+      "sha256": "68675cce31ceff52105054f07e0d9490bc5731ff7a39752a365ef022613d6336"
     }
   }
 }
